@@ -1,5 +1,7 @@
 Main () {}
 
+stu () {}
+
 Func2 () { }
 
 Func3 () { }
