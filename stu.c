@@ -1,7 +1,5 @@
 Main () {}
 
-stu () {}
-
 build () {}
 
 Func2 () { }
