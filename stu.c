@@ -2,6 +2,8 @@ Main () {}
 
 stu () {}
 
+build () {}
+
 Func2 () { }
 
 Func3 () { }
